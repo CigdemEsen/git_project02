@@ -4,7 +4,8 @@ public class Gitday3 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("merhaba");
+		System.out.println("my first changes on local master");
+		System.out.println("this is my feature branch");
 	}
 
 }
